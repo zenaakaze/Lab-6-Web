@@ -1,6 +1,6 @@
 # Lab6Web — JavaScript DOM dan Event Handling
 
-**Nama / NIM / Kelas:** _(isi sendiri)_
+**Fernando Dermawan 312510476**
 
 ## Tujuan
 1. Memahami DOM sebagai representasi dokumen HTML yang dapat diakses JavaScript.
